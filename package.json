@@ -1,0 +1,27 @@
+{
+  "name": "animals-dataset",
+  "version": "1.0.0",
+  "description": "An array of animals in English",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/randfun/animals-dataset.git"
+  },
+  "keywords": [
+    "dataset",
+    "animals",
+    "rand.fun"
+  ],
+  "author": "Angel M Miguel <angel@laux.es>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/randfun/animals-dataset/issues"
+  },
+  "homepage": "https://github.com/randfun/animals-dataset#readme",
+  "devDependencies": {
+    "jest": "^21.2.1"
+  }
+}
